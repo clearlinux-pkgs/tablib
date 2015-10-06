@@ -4,7 +4,7 @@
 #
 Name     : tablib
 Version  : 0.10.0
-Release  : 6
+Release  : 7
 URL      : https://pypi.python.org/packages/source/t/tablib/tablib-0.10.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/t/tablib/tablib-0.10.0.tar.gz
 Summary  : Format agnostic tabular data library (XLS, JSON, YAML, CSV)
